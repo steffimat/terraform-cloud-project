@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ca-central-1"
-  secret_key = "uDXTGk78jcvbP7fk1iOz0odoZsqotCKEI4m3rRD+"
-  access_key = "AKIAU6GDWMRZT7Y3UB55"
+  secret_key = "********"
+  access_key = "******"
 }
 
 resource "aws_instance" "web_testing" {
